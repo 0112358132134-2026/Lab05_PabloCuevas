@@ -1,0 +1,8 @@
+﻿  Metodos_Busqueda.cpp
+  MyForm.cpp
+  Generando código...
+C:\Users\Pablo\Desktop\Lab_05_PabloCuevas\MyForm.h(362,15) : warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Pablo\Desktop\Lab_05_PabloCuevas\Metodos_Busqueda.h(187)  : warning C4715: 'Metodos_Busqueda::Busqueda_Hash': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Pablo\Desktop\Lab_05_PabloCuevas\Metodos_Busqueda.h(187)  : warning C4715: 'Metodos_Busqueda::Busqueda_Hash': no todas las rutas de acceso de control devuelven un valor
+  Metodos_Busqueda.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab_05_PabloCuevas.vcxproj -> C:\Users\Pablo\Desktop\Lab_05_PabloCuevas\Debug\Lab_05_PabloCuevas.exe
